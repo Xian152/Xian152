@@ -1,10 +1,9 @@
 # Hello, I'm Xian Zhang
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
--  🎓 Master of Arts in Economics @ Duke University, Class of 2019.
--  👨🏻‍💻 Research Fellow @ Global Health Research Center, Duke Kunshan University since 2021.
+-  🎓 PhD Student in Health Services Research & Policy, University of Rochester Medical Center.
+-  👨🏻‍💻 Research Fellow @ Global Health Research Center, Duke Kunshan University from 2021 to 2024.
 -  📚 Research Interest: Health economics, Environmental health, Healthy aging.
--  🙋‍♂️ Looking for PhD in Health Economics.
 <h3> 🛠 &nbsp;Tech</h3>
 
 <p align="center">
@@ -32,7 +31,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/xian-zhang-5b0702161//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Xian%20Zhang-blue?style=flat-square&logo=linkedin"></a>
-<a href="xz152@duke.edu"><img alt="Email" src="https://img.shields.io/badge/Email-xz152@duke.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="Xian_Zhang@URMC.Rochester.edu"><img alt="Email" src="https://img.shields.io/badge/Email-xz152@duke.edu-blue?style=flat-square&logo=gmail"></a>
 <a href="https://scholar.google.com/citations?user=2vQePQoAAAAJ&hl=zh-TW"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-Xian%20Zhang-blue?style=flat-square&logo=googlescholar"></a>
 </p>
 
