@@ -2,7 +2,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 -  🎓 PhD Student in Health Services Research & Policy, University of Rochester Medical Center.
--  👨🏻‍💻 Research Fellow @ Global Health Research Center, Duke Kunshan University from 2021 to 2024.
 -  📚 Research Interest: Health economics, Environmental health, Healthy aging.
 <h3> 🛠 &nbsp;Tech</h3>
 
